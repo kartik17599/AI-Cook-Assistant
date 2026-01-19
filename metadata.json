@@ -1,0 +1,8 @@
+{
+  "name": "Mafia Food",
+  "description": "Real-life meal planning for tight budgets with tactical constraints, vision scanning, and location-aware market intel.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
